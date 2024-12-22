@@ -1,4 +1,4 @@
-# React State And Props Tutorial
+# React State & Props Tutorial
 React JS application for describes the React state and props features.
 
 * ### Technologies
@@ -12,7 +12,7 @@ React JS application for describes the React state and props features.
 * ### Release Note
     * Release 1.0.0
     * Date: 2024/12/22
-    * Module: React State And Props Tutorial
+    * Module: React State & Props Tutorial
     * Changes
         * Implements the state component.
         * Implements the props component.
