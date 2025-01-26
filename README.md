@@ -6,12 +6,12 @@ React JS application for describes the React state and props features.
     * HTML 5
     * CSS 3
 
-* ### Configurations
-    * [Medium Story](https://sachithariyathilaka.medium.com/react-states-props-e55075df0293)
+* ### Documentation
+    * [Read on Medium](https://sachithariyathilaka.medium.com/react-states-props-e55075df0293)
 
 * ### Release Note
-    * Release 1.0.0
-    * Date: 2024/12/22
+    * Version 1.0.0
+    * Release Date: 2024/12/22
     * Module: React State & Props Tutorial
     * Changes
         * Implements the state component.
