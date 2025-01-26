@@ -7,7 +7,7 @@ React JS application for describes the React state and props features.
     * CSS 3
 
 * ### Configurations
-    * https://sachithariyathilaka.medium.com/react-states-props-e55075df0293
+    * [Medium Story](https://sachithariyathilaka.medium.com/react-states-props-e55075df0293)
 
 * ### Release Note
     * Release 1.0.0
